@@ -58,7 +58,7 @@ For the build to succeed you will need these packages:
 * ruby-dev
 * libreadline5-dev
 * zlib1g-dev
-
+* libssl-dev
 
 == Rubinius itself
 
